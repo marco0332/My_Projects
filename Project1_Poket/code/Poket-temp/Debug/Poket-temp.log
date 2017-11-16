@@ -1,0 +1,30 @@
+﻿  Poketmonster.cpp
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(113): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(131): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(300): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(330): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(350): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(365): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(380): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(395): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(489): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(497): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(682): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(1464): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(1478): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(2037): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(2325): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(2365): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(2405): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(2445): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(2814): warning C4715: 'mini_Fight': not all control paths return a value
+c:\users\marco\onedrive\문서\visual studio 2015\projects\poket-temp\poket-temp\poketmonster.cpp(4077): warning C4715: 'mini_Fight_Boss': not all control paths return a value
+  Poket-temp.vcxproj -> c:\users\marco\onedrive\문서\visual studio 2015\Projects\Poket-temp\Debug\Poket-temp.exe
+  Poket-temp.vcxproj -> c:\users\marco\onedrive\문서\visual studio 2015\Projects\Poket-temp\Debug\Poket-temp.pdb (Full PDB)
