@@ -12,6 +12,6 @@ _1. Adaboost(Adaptive Boosting) 알고리즘을 돌리기 위한 Integral Image 
 _2. Haar-like feature 구하기 <br>
 _3. 얼굴 데이터를 사용하여 모델 학습 <br>
 _4. 얼굴이라고 판단될 수 있는 후보 중에서 일정 신뢰도 이상을 가지는 영역을 얼굴이라고 판단. <br>
-<br>
+
 ![Alt text](./images/image_01.jpg)
-<br>결과 예시
+결과 예시<br>
