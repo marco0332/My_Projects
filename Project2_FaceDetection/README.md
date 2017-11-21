@@ -13,5 +13,5 @@ _2. Haar-like feature 구하기 <br>
 _3. 얼굴 데이터를 사용하여 모델 학습 <br>
 _4. 얼굴이라고 판단될 수 있는 후보 중에서 일정 신뢰도 이상을 가지는 영역을 얼굴이라고 판단. <br>
 
-![Alt text](./images/image_01.JPEG)
+![Alt text](./images/image_01.jpg)
 결과 예시
