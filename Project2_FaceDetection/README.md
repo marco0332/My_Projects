@@ -1,17 +1,18 @@
-<b>#2. ¾ó±¼°ËÃâ</b> <br>
-- °³¹ßÀÎ¿ø : 1¸í <br>
-- °³¹ß±â°£ : 2014.04 ~ 2014.05 <br>
-- °³¹ßÈ¯°æ : Windows <br>
-- °³¹ß¾ð¾î : Matlab <br>
-- °³¹ßÅø   : Matlab <br>
-- ÀÛÇ°¼Ò°³ : Viola Jones°¡ ÀÛ¼ºÇÑ ³í¹®À» ¹ÙÅÁÀ¸·Î Adaboost¸¦ ÅëÇÑ ¾ó±¼ ÇÐ½À ¹×
-¾ó±¼ °ËÃâÀ» ±¸ÇöÇÔ. <br>
-- ÀÛÇ°³»¿ë : ¼ö ¸¹Àº »ç¶÷ ¾ó±¼ µ¥ÀÌÅÍ·ÎºÎÅÍ ¸ðµ¨À» ÇÐ½À½ÃÅ°°í, »õ·Î¿î ÀÔ·Â µ¥ÀÌÅÍ°¡ µé¾î¿ÔÀ» ¶§ ¾ó±¼ÀÌ¶ó°í ÆÇ´ÜµÇ´Â ºÎºÐ¿¡ »¡°£»ö ³×¸ð Å×µÎ¸®¸¦ ±×¸®´Â ÇÁ·Î±×·¥ÀÌ´Ù. <br>
-- °³¹ß³»¿ë <br>
-_1. Adaboost(Adaptive Boosting) ¾Ë°í¸®ÁòÀ» µ¹¸®±â À§ÇÑ Integral Image »ý¼º <br>
-_2. Haar-like feature ±¸ÇÏ±â <br>
-_3. ¾ó±¼ µ¥ÀÌÅÍ¸¦ »ç¿ëÇÏ¿© ¸ðµ¨ ÇÐ½À <br>
-_4. ¾ó±¼ÀÌ¶ó°í ÆÇ´ÜµÉ ¼ö ÀÖ´Â ÈÄº¸ Áß¿¡¼­ ÀÏÁ¤ ½Å·Úµµ ÀÌ»óÀ» °¡Áö´Â ¿µ¿ªÀ» ¾ó±¼ÀÌ¶ó°í ÆÇ´Ü. <br>
+<b>#2. ì–¼êµ´ê²€ì¶œ</b> <br>
+- ê°œë°œì¸ì› : 1ëª… <br>
+- ê°œë°œê¸°ê°„ : 2014.04 ~ 2014.05 <br>
+- ê°œë°œí™˜ê²½ : Windows <br>
+- ê°œë°œì–¸ì–´ : Matlab <br>
+- ê°œë°œíˆ´   : Matlab <br>
+- ìž‘í’ˆì†Œê°œ : Viola Jonesê°€ ìž‘ì„±í•œ ë…¼ë¬¸ì„ ë°”íƒ•ìœ¼ë¡œ Adaboostë¥¼ í†µí•œ ì–¼êµ´ í•™ìŠµ ë°
+ì–¼êµ´ ê²€ì¶œì„ êµ¬í˜„í•¨. <br>
+- ìž‘í’ˆë‚´ìš© : ìˆ˜ ë§Žì€ ì‚¬ëžŒ ì–¼êµ´ ë°ì´í„°ë¡œë¶€í„° ëª¨ë¸ì„ í•™ìŠµì‹œí‚¤ê³ , ìƒˆë¡œìš´ ìž…ë ¥ ë°ì´í„°ê°€ ë“¤ì–´ì™”ì„ ë•Œ ì–¼êµ´ì´ë¼ê³  íŒë‹¨ë˜ëŠ” ë¶€ë¶„ì— ë¹¨ê°„ìƒ‰ ë„¤ëª¨ í…Œë‘ë¦¬ë¥¼ ê·¸ë¦¬ëŠ” í”„ë¡œê·¸ëž¨ì´ë‹¤. <br>
+- ê°œë°œë‚´ìš© <br>
+_1. Adaboost(Adaptive Boosting) ì•Œê³ ë¦¬ì¦˜ì„ ëŒë¦¬ê¸° ìœ„í•œ Integral Image ìƒì„± <br>
+_2. Haar-like feature êµ¬í•˜ê¸° <br>
+_3. ì–¼êµ´ ë°ì´í„°ë¥¼ ì‚¬ìš©í•˜ì—¬ ëª¨ë¸ í•™ìŠµ <br>
+_4. ì–¼êµ´ì´ë¼ê³  íŒë‹¨ë  ìˆ˜ ìžˆëŠ” í›„ë³´ ì¤‘ì—ì„œ ì¼ì • ì‹ ë¢°ë„ ì´ìƒì„ ê°€ì§€ëŠ” ì˜ì—­ì„ ì–¼êµ´ì´ë¼ê³  íŒë‹¨. <br>
 
-![Alt text](./images/image_01.JPG)
-°á°ú ¿¹½Ã
+ê²°ê³¼ ì˜ˆì‹œ<br>
+![Alt text](./images/image_01.jpg)
+
