@@ -1,8 +1,28 @@
-<b>#3. ´Ş·Á¶ó ´ëÇĞ»ı</b> <br>
-- °³¹ßÀÎ¿ø : 4¸í <br>
-- °³¹ß±â°£ : 2017.05 ~ 2017.06 ÃÊ <br>
-- °³¹ßÈ¯°æ : Windows <br>
-- °³¹ß¾ğ¾î : C++ <br>
-- °³¹ß Åø  : Microsoft Visual Studio 2013 <br>
-- ÀÛÇ°¼Ò°³ : °ÔÀÓÀ» ±âÈ¹, Á¦ÀÛÇØº¸´Â ÇÁ·ÎÁ§Æ®
-- ÀÛÇ°³»¿ë : ´ëÇĞ»ıÀ» ÁÖÀÎ°øÀ¸·Î µÎ °¡Áö ÁÖ¾îÁö´Â »óÈ²(Stage)¿¡ ´ëÇØ¼­ ÇØ°áÇÏ·Á°í ³ë·ÂÇÏ´Â °ÔÀÓ
+<b>#3. ë‹¬ë ¤ë¼ ëŒ€í•™ìƒ</b> <br>
+- ê°œë°œì¸ì› : 4ëª… <br>
+- ê°œë°œê¸°ê°„ : 2017.05 ~ 2017.06 ì´ˆ <br>
+- ê°œë°œí™˜ê²½ : Windows <br>
+- ê°œë°œì–¸ì–´ : C++ <br>
+- ê°œë°œ íˆ´  : Microsoft Visual Studio 2013 <br>
+- ì‘í’ˆì†Œê°œ : ê²Œì„ì„ ê¸°íš, ì œì‘í•´ë³´ëŠ” í”„ë¡œì íŠ¸ <br>
+- ì‘í’ˆë‚´ìš© : ëŒ€í•™ìƒì„ ì£¼ì¸ê³µìœ¼ë¡œ ë‘ ê°€ì§€ ì£¼ì–´ì§€ëŠ” ìƒí™©(Stage)ì— ëŒ€í•´ì„œ í•´ê²°í•˜ë ¤ê³  ë…¸ë ¥í•˜ëŠ” ê²Œì„ <br>
+- ê°œë°œë‚´ìš© <br>
+_1. ë°°ê²½ìŒ, íš¨ê³¼ìŒ, Stage1 ë°°ê²½ì„ ì œì™¸í•œ ëª¨ë“  ë¦¬ì†ŒìŠ¤ ì œì‘ <br>
+_2. 2ê°œ Stage, 2ê°œ Notice ë° Intro, Ending, Rankingìœ¼ë¡œ êµ¬ì„± <br>
+_3. ê²Œì„ì„ ì¬ë„ì „í•  ê²½ìš° ê²Œì„ ì§„í–‰ë°©ë²• í™”ë©´ í‘œì‹œX <br>
+_4. Ranking íŒŒíŠ¸ êµ¬í˜„ <br>
+
+![Alt text](/images/image_01.PNG)
+![Alt text](/images/image_02.PNG)
+![Alt text](/images/image_03.PNG)
+![Alt text](/images/image_04.PNG)
+![Alt text](/images/image_05.PNG)
+![Alt text](/images/image_06.PNG)
+![Alt text](/images/image_07.PNG)
+![Alt text](/images/image_08.PNG)
+![Alt text](/images/image_09.PNG)
+![Alt text](/images/image_10.PNG)
+![Alt text](/images/image_11.PNG)
+![Alt text](/images/image_12.PNG)
+![Alt text](/images/image_13.PNG)
+![Alt text](/images/image_14.PNG)
