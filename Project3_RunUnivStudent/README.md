@@ -11,11 +11,11 @@ _1. 배경음, 효과음, Stage1 배경을 제외한 모든 리소스 제작 <br
 _2. 2개 Stage, 2개 Notice 및 Intro, Ending, Ranking으로 구성 <br>
 _3. 게임을 재도전할 경우 게임 진행방법 화면 표시X <br>
 _4. Ranking 파트 구현 <br>
-- 내가 맡은 역할
-_1. 진행 방향 설정
-_2. 게임 아이디어 종합 및 정리
-_3. 각 스테이지별 상세 구현 설정과 필요 리소스 파악
-_4. 구현 및 마감 총괄(팀장)
+- 내가 맡은 역할 <br>
+_1. 진행 방향 설정 <br>
+_2. 게임 아이디어 종합 및 정리 <br>
+_3. 각 스테이지별 상세 구현 설정과 필요 리소스 파악 <br>
+_4. 구현 및 마감 총괄(팀장) <br>
 ![Alt text](./images/image_01.PNG)
 ![Alt text](./images/image_02.PNG)
 ![Alt text](./images/image_03.PNG)
