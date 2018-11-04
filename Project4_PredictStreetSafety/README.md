@@ -1,14 +1,14 @@
-<b>#4. °Å¸®¾ÈÀüµµ ¿¹Ãø</b> <br>
-- °³¹ßÀÎ¿ø : 1¸í <br>
-- °³¹ß±â°£ : 2017.07 ~ 2017.08 <br>
-- °³¹ßÈ¯°æ : Windows <br>
-- °³¹ß¾ð¾î : C++, Python <br>
-- °³¹ß Åø  : Microsoft Visual Studio 2013, JetBrains PyCharm Community Edition 2017 <br>
-- ÀÛÇ°¼Ò°³ : µö·¯´×À» ÅëÇØ ÁÖ¾îÁø ¿µ»óÀÇ Context¸¦ ÃßÃâÇÏ¿© °Å¸® ¾ÈÀüµµ Á¡¼ö¸¦ ¿¹ÃøÇÏ´Â ¸ðµ¨. <br>
-- ÀÛÇ°³»¿ë : °Å¸® ¿µ»ó¿¡¼­ ´«¿¡ ¶ç´Â ºÎºÐÀ» Ã£¾Æ Context¸¦ ÃßÃâÇÏ¿´°í, ÀÌ¸¦ È°¿ëÇØ¼­ °Å¸® ¾ÈÀüµµ Á¡¼ö¸¦ ¿¹ÃøÇÏ´Â ¸ðµ¨À» ÇÐ½À½ÃÄ×´Ù. <br>
-- °³¹ß ³»¿ë <br>
-_1. Pairwise ComparisonÀ» ÁøÇàÇÏ±â À§ÇÑ ÇÁ·Î±×·¥ ±¸Çö <br>
-_2. Convolutional Auto-Encoder¸¦ ÀÌ¿ëÇÑ Saliency MapÀ» ±¸ÇØ¼­ Context¿µ¿ª ÃßÃâ <br>
-_3. TrueSkill¾Ë°í¸®ÁòÀ» ÅëÇØ °¢ ¿µ»ó¿¡ ´ëÇÑ ·©Å·À» ¸Å±è. ¼øÀ§¸¦ ¹ÙÅÁÀ¸·Î 0~10Á¡À¸·Î NormalizationÇÔ. <br>
-_4. Context µ¥ÀÌÅÍ¸¦ ÀÔ·Â, ·©Å· Á¡¼ö¸¦ ¿¹Ãø TargetÀ¸·Î ÇÐ½À½ÃÄ×À½. <br>
-(Tensorflow »ç¿ë) <br>
+<b>#4. ê±°ë¦¬ì•ˆì „ë„ ì˜ˆì¸¡</b> <br>
+- ê°œë°œì¸ì› : 1ëª… <br>
+- ê°œë°œê¸°ê°„ : 2017.01 ~ 2018.01 <br>
+- ê°œë°œí™˜ê²½ : Windows <br>
+- ê°œë°œì–¸ì–´ : C++, Python <br>
+- ê°œë°œ íˆ´  : Microsoft Visual Studio 2013, JetBrains PyCharm Community Edition 2017 <br>
+- ìž‘í’ˆì†Œê°œ : ë”¥ëŸ¬ë‹ì„ í†µí•´ ì£¼ì–´ì§„ ì˜ìƒì˜ Contextë¥¼ ì¶”ì¶œí•˜ì—¬ ê±°ë¦¬ ì•ˆì „ë„ ì ìˆ˜ë¥¼ ì˜ˆì¸¡í•˜ëŠ” ëª¨ë¸. <br>
+- ìž‘í’ˆë‚´ìš© : ê±°ë¦¬ ì˜ìƒì—ì„œ ëˆˆì— ë„ëŠ” ë¶€ë¶„ì„ ì°¾ì•„ Contextë¥¼ ì¶”ì¶œí•˜ì˜€ê³ , ì´ë¥¼ í™œìš©í•´ì„œ ê±°ë¦¬ ì•ˆì „ë„ ì ìˆ˜ë¥¼ ì˜ˆì¸¡í•˜ëŠ” ëª¨ë¸ì„ í•™ìŠµì‹œì¼°ë‹¤. <br>
+- ê°œë°œ ë‚´ìš© <br>
+_1. Pairwise Comparisonì„ ì§„í–‰í•˜ê¸° ìœ„í•œ í”„ë¡œê·¸ëž¨ êµ¬í˜„ <br>
+_2. Convolutional Auto-Encoderë¥¼ ì´ìš©í•œ Saliency Mapì„ êµ¬í•´ì„œ Contextì˜ì—­ ì¶”ì¶œ <br>
+_3. TrueSkillì•Œê³ ë¦¬ì¦˜ì„ í†µí•´ ê° ì˜ìƒì— ëŒ€í•œ ëž­í‚¹ì„ ë§¤ê¹€. ìˆœìœ„ë¥¼ ë°”íƒ•ìœ¼ë¡œ 0~10ì ìœ¼ë¡œ Normalizationí•¨. <br>
+_4. Context ë°ì´í„°ë¥¼ ìž…ë ¥, ëž­í‚¹ ì ìˆ˜ë¥¼ ì˜ˆì¸¡ Targetìœ¼ë¡œ í•™ìŠµì‹œì¼°ìŒ. <br>
+(Tensorflow ì‚¬ìš©) <br>
